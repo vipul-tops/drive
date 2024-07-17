@@ -1,7 +1,7 @@
 {
     "name": "googledrive/uploadcsv",
     "description": "Uploadcsv-a laravel package",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
