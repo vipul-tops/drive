@@ -1,0 +1,25 @@
+{
+    "name": "googledrive/uploadcsv",
+    "description": "Uploadcsv-a laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Googledrive\\Uploadcsv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vipul"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Googledrive\\Uploadcsv\\Providers\\UploadCsvServiceProvider"
+            ],
+        }
+    }
+}
